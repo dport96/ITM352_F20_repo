@@ -1,4 +1,4 @@
-# hello-world
+# ITM352_F20_repo
 A place to start this new adventure in programming.
 
 Hello everyone,
