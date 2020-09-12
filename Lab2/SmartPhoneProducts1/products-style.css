@@ -8,7 +8,7 @@ main {
     display: flex;
 	flex-flow: row wrap;
     justify-content: space-around;
-    background-image: url(./phone_globe.png) no repeat 70% center;
+    background: url("./images/phone_globe.jpg") no-repeat center;
 }
 
 .item img {
